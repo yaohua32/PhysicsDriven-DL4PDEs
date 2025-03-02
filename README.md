@@ -14,8 +14,8 @@ Related methods (implemented methods are bolded):
 
 #### 2️⃣ Weak-Form-Based Approaches
 These methods use the weak form of PDEs, making them more flexible in handling lower regularity solutions:
-- Advantages: Avoids the need for high-order derivatives, accommodates lower-regularity solutions.
-- Disadvantages: Requires integral calculations, often leading to a large number of integration points; some frameworks define test functions globally, making them less effective for complex geometries.
+- **Advantages**: Avoids the need for high-order derivatives, accommodates lower-regularity solutions.
+- **Disadvantages**: Requires integral calculations, often leading to a large number of integration points; some frameworks define test functions globally, making them less effective for complex geometries.
 
 Related methods (implemented methods are bolded):
 - [Weak Adversarial Networks (WANs)](https://www.sciencedirect.com/science/article/abs/pii/S0021999120301832)
